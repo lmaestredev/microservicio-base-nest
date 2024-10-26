@@ -1,0 +1,6 @@
+1. Inicio del proyecto (nest new product)
+2. Se agrega un modulo restfull API: $nest g res products.
+3. Viene crear producto y validaciones.
+4. Servicios y respuestas
+5. Listar y eliminar productos
+6. Actualizar producto
